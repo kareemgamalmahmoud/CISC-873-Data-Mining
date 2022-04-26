@@ -7,3 +7,6 @@
 [jagmeetbains13 / Data-Mining-Course](https://github.com/jagmeetbains13/Data-Mining-Course)
 
 [rabajaj0509 / CISC873-DataMiningCourse](https://github.com/rabajaj0509/CISC873-DataMiningCourse)
+
+[fatmaaneis96 / CISC873DataMiningcompetition](https://github.com/fatmaaneis96/CISC-873-Data-Mining-/tree/main/DataMiningcompetition)
+
