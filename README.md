@@ -1,5 +1,7 @@
 # CISC 873 Data Mining
  CISC 873 Data Mining course queen's university
+ 
+### See my Kaggle Competitions ([Link](https://www.kaggle.com/karimgamalmahmoud/competitions?tab=completed))
 
 ### See also this useful links:
 [gavinmcclelland / CISC-873](https://github.com/gavinmcclelland/CISC-873)
